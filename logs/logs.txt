@@ -1,0 +1,28 @@
+
+2024-05-06 14:51
+Traceback (most recent call last):
+  File "C:\Users\Denis.Reshilov\Desktop\app_tiburon\secondary_func.py", line 23, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: auth_tiburon() missing 3 required positional arguments: 'driver', 'login', and 'password'
+
+------------------------------
+2024-05-07 11:00
+Traceback (most recent call last):
+  File "C:\Users\Denis.Reshilov\Desktop\app_tiburon\secondary_func.py", line 23, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: download_base_from_tiburon() got an unexpected keyword argument 'params'
+
+------------------------------
+2025-06-04 17:06
+Traceback (most recent call last):
+  File "C:\Users\reshi\APP_TIB_NEW\secondary_func.py", line 23, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\reshi\APP_TIB_NEW\main.py", line 906, in update_project_folder
+    links_names_list = os.listdir(self.links_folder)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] Системе не удается найти указанный путь: 'C:\\Users\\Denis.Reshilov\\Desktop\\test'
+
+------------------------------

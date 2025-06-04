@@ -1,0 +1,2813 @@
+{
+  "2301893501": {
+    "type_tib_id": "ip",
+    "tib_id": 900,
+    "id": "2301893501",
+    "name": "23-018935-01 Evervess CLT",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2300962001": {
+    "type_tib_id": "ip",
+    "tib_id": 901,
+    "id": "2300962001",
+    "name": "23-009620-01 Nescafe Bogatyri Shelf Test",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2209090001redir": {
+    "type_tib_id": "ip",
+    "tib_id": 902,
+    "id": "2209090001redir",
+    "name": "22-090900-01 GUM Orbit PT Redirect",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2301316801": {
+    "type_tib_id": "ip",
+    "tib_id": 903,
+    "id": "2301316801",
+    "name": "23-013168-01 Rich PET volumetric",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2301945601h": {
+    "type_tib_id": "ip",
+    "tib_id": 904,
+    "id": "2301945601h",
+    "name": "23-019456-01 CQA Cheetos Q1 2023",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2301138401": {
+    "type_tib_id": "ip",
+    "tib_id": 905,
+    "id": "2301138401",
+    "name": "23-011384-01 Jubilee DTCV",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302324201": {
+    "type_tib_id": "ip",
+    "tib_id": 906,
+    "id": "2302324201",
+    "name": "23-023242-01 Cola PT - blind",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2301138401_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 907,
+    "id": "2301138401_redir",
+    "name": "23-011384-01 Jubilee DTCV Redirect",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302730201": {
+    "type_tib_id": "ip",
+    "tib_id": 908,
+    "id": "2302730201",
+    "name": "23-027302-01 Greek yogurt PT QST",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2301316801_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 909,
+    "id": "2301316801_redir",
+    "name": "23-013168-01 Rich PET volumetric Redirect",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302324801": {
+    "type_tib_id": "ip",
+    "tib_id": 910,
+    "id": "2302324801",
+    "name": "23-023248-01 Cola PT - branded",
+    "status": "Закрыт",
+    "processing": []
+  },
+  "2300702602": {
+    "type_tib_id": "ip",
+    "tib_id": 911,
+    "id": "2300702602",
+    "name": "23-007026-02 Camel SS Pack test",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302496801": {
+    "type_tib_id": "ip",
+    "tib_id": 912,
+    "id": "2302496801",
+    "name": "23-024968-01 Drive Me Original PT",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2302730201part2": {
+    "type_tib_id": "ip",
+    "tib_id": 913,
+    "id": "2302730201part2",
+    "name": "23-027302-01 Greek yogurt PT part2",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2302422201": {
+    "type_tib_id": "ip",
+    "tib_id": 914,
+    "id": "2302422201",
+    "name": "23-024222-01 Imunele Competitive PT",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2302247601": {
+    "type_tib_id": "ip",
+    "tib_id": 915,
+    "id": "2302247601",
+    "name": "23-022476-01 Frustyle PT",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2302701201": {
+    "type_tib_id": "ip",
+    "tib_id": 916,
+    "id": "2302701201",
+    "name": "23-027012-01 CQA Q2 2023 Lays Crab",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302593601": {
+    "type_tib_id": "ip",
+    "tib_id": 917,
+    "id": "2302593601",
+    "name": "23-025936-01 Oreo DTCV",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302593601PT": {
+    "type_tib_id": "ip",
+    "tib_id": 918,
+    "id": "2302593601PT",
+    "name": "23-025936-01 Oreo PT QST",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302701201_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 919,
+    "id": "2302701201_redir",
+    "name": "23-027012-01 CQA Q2 Redirect",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2302593601_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 920,
+    "id": "2302593601_redir",
+    "name": "23-025936-01 Oreo DTCV Redirect",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2303322101": {
+    "type_tib_id": "ip",
+    "tib_id": 921,
+    "id": "2303322101",
+    "name": "23-033221-01 Evervess NS Cola PT",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2302593601PTredir": {
+    "type_tib_id": "ip",
+    "tib_id": 922,
+    "id": "2302593601PTredir",
+    "name": "23-025936-01 Oreo PT QST Redirect",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2205550022_lovemark_part1": {
+    "type_tib_id": "ip",
+    "tib_id": 923,
+    "id": "2205550022_lovemark_part1",
+    "name": "22-055500-22 Lovemark -трекинг экосистемы Сбера - Розничный рынок",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2301791901": {
+    "type_tib_id": "ip",
+    "tib_id": 924,
+    "id": "2301791901",
+    "name": "23-017919-01 New Refillables Exploration",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2303525801start": {
+    "type_tib_id": "ip",
+    "tib_id": 925,
+    "id": "2303525801start",
+    "name": "23-035258-01 Paster Milk PT start",
+    "status": "Закрыт",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2301791901redir": {
+    "type_tib_id": "ip",
+    "tib_id": 926,
+    "id": "2301791901redir",
+    "name": "23-017919-01 New Refillables REDIRECT",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2303986401": {
+    "type_tib_id": "ip",
+    "tib_id": 927,
+    "id": "2303986401",
+    "name": "23-039864-01 Rich Pack test",
+    "status": "Закрыт",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2300918401": {
+    "type_tib_id": "ip",
+    "tib_id": 928,
+    "id": "2300918401",
+    "name": "Borjomi lemonade CPT",
+    "status": "Закрыт",
+    "processing": [
+      "alisa.shirokova@ipsos-russia.ru"
+    ]
+  },
+  "2300918401start": {
+    "type_tib_id": "ip",
+    "tib_id": 929,
+    "id": "2300918401start",
+    "name": "23-009184-01 Borjomi lemonade CPT start",
+    "status": "Закрыт",
+    "processing": [
+      "alisa.shirokova@ipsos-russia.ru"
+    ]
+  },
+  "2303954401": {
+    "type_tib_id": "ip",
+    "tib_id": 930,
+    "id": "2303954401",
+    "name": "23-039544-01 CQA Q2 Lays Salted",
+    "status": "Закрыт",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2303984801": {
+    "type_tib_id": "ip",
+    "tib_id": 931,
+    "id": "2303984801",
+    "name": "23-039848-01 Greek Yogurt PT-3",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2304587901": {
+    "type_tib_id": "ip",
+    "tib_id": 932,
+    "id": "2304587901",
+    "name": "23-045879-01 CQA HT KZ",
+    "status": "Закрыт",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2303986401start": {
+    "type_tib_id": "ip",
+    "tib_id": 933,
+    "id": "2303986401start",
+    "name": "23-039864-01 Rich Pack test start",
+    "status": "Закрыт",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2208696401start": {
+    "type_tib_id": "ip",
+    "tib_id": 934,
+    "id": "2208696401start",
+    "name": "22-086964-01 Nutricia Tailored UA start",
+    "status": "Закрыт",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2304587901start": {
+    "type_tib_id": "ip",
+    "tib_id": 935,
+    "id": "2304587901start",
+    "name": "23-045879-01 CQA HT KZ start",
+    "status": "Закрыт",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2304409301": {
+    "type_tib_id": "ip",
+    "tib_id": 936,
+    "id": "2304409301",
+    "name": "23-044093-01 J7 & Lyb PT",
+    "status": "Закрыт",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2303484101": {
+    "type_tib_id": "ip",
+    "tib_id": 937,
+    "id": "2303484101",
+    "name": "23-034841-01 Adrenaline NS RP",
+    "status": "Закрыт",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2304361001": {
+    "type_tib_id": "ip",
+    "tib_id": 938,
+    "id": "2304361001",
+    "name": "23-043610-01 Pro Plan Russian pack test",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2304852501": {
+    "type_tib_id": "ip",
+    "tib_id": 939,
+    "id": "2304852501",
+    "name": "23-048525-01 Cola NS FS PT",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2209205502_2": {
+    "type_tib_id": "ip",
+    "tib_id": 940,
+    "id": "2209205502_2",
+    "name": "22-092055-02 Confectionery Shopper",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "23043610010": {
+    "type_tib_id": "ip",
+    "tib_id": 941,
+    "id": "23043610010",
+    "name": "23-043610-01 Pro Plan Russian pack test start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2209205502_20": {
+    "type_tib_id": "ip",
+    "tib_id": 942,
+    "id": "2209205502_20",
+    "name": "22-092055-02 Confectionery Shopper start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2304512301": {
+    "type_tib_id": "ip",
+    "tib_id": 943,
+    "id": "2304512301",
+    "name": "23-045123-01 AG Dark PT",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2305425201": {
+    "type_tib_id": "ip",
+    "tib_id": 944,
+    "id": "2305425201",
+    "name": "23-054252-01 J7 & Lyb PT branded",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru",
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "ht_1": {
+    "type_tib_id": "ip",
+    "tib_id": 945,
+    "id": "ht_1",
+    "name": "тестирование викторин",
+    "status": "В поле",
+    "processing": [
+      "anastasia.kochetova@ipsos-russia.ru"
+    ]
+  },
+  "2305115101": {
+    "type_tib_id": "ip",
+    "tib_id": 946,
+    "id": "2305115101",
+    "name": "23-051151-01 Lay's Baked Multigrain PT",
+    "status": "Закрыт",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2305453801": {
+    "type_tib_id": "ip",
+    "tib_id": 947,
+    "id": "2305453801",
+    "name": "23-054538-01 LIT PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2305453801start": {
+    "type_tib_id": "ip",
+    "tib_id": 948,
+    "id": "2305453801start",
+    "name": "23-054538-01 LIT PT start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2302794401h": {
+    "type_tib_id": "ip",
+    "tib_id": 949,
+    "id": "2302794401h",
+    "name": "23-027944-01 In-store touchpoints study",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2305444701": {
+    "type_tib_id": "ip",
+    "tib_id": 950,
+    "id": "2305444701",
+    "name": "23-054447-01 Somat capsule test",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2305444701start": {
+    "type_tib_id": "ip",
+    "tib_id": 951,
+    "id": "2305444701start",
+    "name": "23-054447-01 Somat capsule test start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2302794401start": {
+    "type_tib_id": "ip",
+    "tib_id": 952,
+    "id": "2302794401start",
+    "name": "23-027944-01 In-store touchpoints study START",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2306243301": {
+    "type_tib_id": "ip",
+    "tib_id": 953,
+    "id": "2306243301",
+    "name": "23-062433-01 Greek Yogurt PT-4",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306963101": {
+    "type_tib_id": "ip",
+    "tib_id": 954,
+    "id": "2306963101",
+    "name": "23-069631-01 Drive Me Berries SR PT",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru",
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "ip954test": {
+    "type_tib_id": "ip",
+    "tib_id": 955,
+    "id": "ip954test",
+    "name": "ip 954test",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2306817201": {
+    "type_tib_id": "ip",
+    "tib_id": 956,
+    "id": "2306817201",
+    "name": "23-068172-01 Lybimy Apple-Cherry PT",
+    "status": "В поле",
+    "processing": [
+      "dmitriy.filippov@ipsos-russia.ru"
+    ]
+  },
+  "2306962501": {
+    "type_tib_id": "ip",
+    "tib_id": 957,
+    "id": "2306962501",
+    "name": "23-069625-01 AdRush Berries SR PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru",
+      "daud.shamilov@ipsos-russia.ru"
+    ]
+  },
+  "2306262001": {
+    "type_tib_id": "ip",
+    "tib_id": 958,
+    "id": "2306262001",
+    "name": "23-062620-01 Chudo Corners Relaunch PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2306210901": {
+    "type_tib_id": "ip",
+    "tib_id": 959,
+    "id": "2306210901",
+    "name": "23-062109-01 Milka Liquer Product Test",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306884201": {
+    "type_tib_id": "ip",
+    "tib_id": 960,
+    "id": "2306884201",
+    "name": "23-068842-01 Garage PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2306965301": {
+    "type_tib_id": "ip",
+    "tib_id": 961,
+    "id": "2306965301",
+    "name": "23-069653-01 Drive Me Nitro Boost SR PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2307077901": {
+    "type_tib_id": "ip",
+    "tib_id": 962,
+    "id": "2307077901",
+    "name": "23-070779-01 AdRush HTM PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "23071292012": {
+    "type_tib_id": "ip",
+    "tib_id": 963,
+    "id": "23071292012",
+    "name": "23-071292-01 CAT GEN4.0 Compatibility Reg japan",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "230712920120": {
+    "type_tib_id": "ip",
+    "tib_id": 964,
+    "id": "230712920120",
+    "name": "23-071292-01 CAT GEN4.0 Compatibility Reg japan start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2307141801": {
+    "type_tib_id": "ip",
+    "tib_id": 965,
+    "id": "2307141801",
+    "name": "23-071418-01 Lay's Salted RP PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2307222301": {
+    "type_tib_id": "ip",
+    "tib_id": 966,
+    "id": "2307222301",
+    "name": "23-072223-01 Lay's Baked Hamon PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2306210901redir": {
+    "type_tib_id": "ip",
+    "tib_id": 967,
+    "id": "2306210901redir",
+    "name": "23-062109-01 Milka Liquer PT Redirect",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "start": {
+    "type_tib_id": "ip",
+    "tib_id": 968,
+    "id": "start",
+    "name": "23-068842-01 Garage PT Start",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2306597901": {
+    "type_tib_id": "ip",
+    "tib_id": 969,
+    "id": "2306597901",
+    "name": "23-065979-01 Sheba pack shelf test",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307465901": {
+    "type_tib_id": "ip",
+    "tib_id": 970,
+    "id": "2307465901",
+    "name": "23-074659-01 Evervess NS Cola PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307745501": {
+    "type_tib_id": "ip",
+    "tib_id": 971,
+    "id": "2307745501",
+    "name": "23-077455-01 Evervess FS cola PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307172301start": {
+    "type_tib_id": "ip",
+    "tib_id": 972,
+    "id": "2307172301start",
+    "name": "23-071723-01 CAT GEN4.0 Compatibility Menth START",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307224501": {
+    "type_tib_id": "ip",
+    "tib_id": 973,
+    "id": "2307224501",
+    "name": "23-072245-01 AdRush Orange SR PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306889101": {
+    "type_tib_id": "ip",
+    "tib_id": 974,
+    "id": "2306889101",
+    "name": "23-068891-01 Lay's GO RP",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306890101": {
+    "type_tib_id": "ip",
+    "tib_id": 975,
+    "id": "2306890101",
+    "name": "23-068901-01 Lay's Bacon RP PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306315101": {
+    "type_tib_id": "ip",
+    "tib_id": 976,
+    "id": "2306315101",
+    "name": "23-063151-01 Baltika 0 Temnoe CPT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2307627501": {
+    "type_tib_id": "ip",
+    "tib_id": 977,
+    "id": "2307627501",
+    "name": "23-076275-01 Aqua Minerale FLV PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2307225501": {
+    "type_tib_id": "ip",
+    "tib_id": 978,
+    "id": "2307225501",
+    "name": "23-072255-01 Cheetos Crab PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2308261901": {
+    "type_tib_id": "ip",
+    "tib_id": 979,
+    "id": "2308261901",
+    "name": "23-082619-01 HT with Beer HUT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru",
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306315101_redirect": {
+    "type_tib_id": "ip",
+    "tib_id": 980,
+    "id": "2306315101_redirect",
+    "name": "23-063151-01 Baltika 0 Temnoe CPT Redirect",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2308261901redir": {
+    "type_tib_id": "ip",
+    "tib_id": 981,
+    "id": "2308261901redir",
+    "name": "23-082619-01 HT with Beer HUT Start",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2308353701": {
+    "type_tib_id": "ip",
+    "tib_id": 982,
+    "id": "2308353701",
+    "name": "23-083537-01 Lay's Stax restage PT",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru",
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307339901": {
+    "type_tib_id": "ip",
+    "tib_id": 983,
+    "id": "2307339901",
+    "name": "23-073399-01 Chudo vs Actibio PT",
+    "status": "В поле",
+    "processing": []
+  },
+  "test_hall_test": {
+    "type_tib_id": "ip",
+    "tib_id": 984,
+    "id": "test_hall_test",
+    "name": "test hall test",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2308152001": {
+    "type_tib_id": "ip",
+    "tib_id": 985,
+    "id": "2308152001",
+    "name": "23-081520-01 AdRush GF PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2308641701": {
+    "type_tib_id": "ip",
+    "tib_id": 986,
+    "id": "2308641701",
+    "name": "23-086417-01 LIT Green Tea PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2307500601": {
+    "type_tib_id": "ip",
+    "tib_id": 987,
+    "id": "2307500601",
+    "name": "23-075006-01 Frustyle Orange PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2308798501": {
+    "type_tib_id": "ip",
+    "tib_id": 988,
+    "id": "2308798501",
+    "name": "23-087985-01 SC PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2307500601_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 989,
+    "id": "2307500601_redir",
+    "name": "23-075006-01 Frustyle Orange PT Redirect",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2308353701v2": {
+    "type_tib_id": "ip",
+    "tib_id": 990,
+    "id": "2308353701v2",
+    "name": "23-083537-01 Lay's Stax restage PT NOT 907",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2308709901_2": {
+    "type_tib_id": "ip",
+    "tib_id": 991,
+    "id": "2308709901_2",
+    "name": "23-087099-01 CAT GEN4.0 Compatibility FoD japan",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2308709901_2_start": {
+    "type_tib_id": "ip",
+    "tib_id": 992,
+    "id": "2308709901_2_start",
+    "name": "23-087099-01 CAT GEN4.0 Compatibility FoD japan start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2308773701": {
+    "type_tib_id": "ip",
+    "tib_id": 993,
+    "id": "2308773701",
+    "name": "23-087737-01 Agusha DP PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2308525201_v2": {
+    "type_tib_id": "ip",
+    "tib_id": 995,
+    "id": "2308525201_v2",
+    "name": "23-085252-01 Lay's Baked Mushrooms PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2306643301ht": {
+    "type_tib_id": "ip",
+    "tib_id": 996,
+    "id": "2306643301ht",
+    "name": "23-066433-01 LL Paper Stick PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2308905301ht": {
+    "type_tib_id": "ip",
+    "tib_id": 997,
+    "id": "2308905301ht",
+    "name": "23-089053-01 Evervess Tonic PT",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307758601": {
+    "type_tib_id": "ip",
+    "tib_id": 998,
+    "id": "2307758601",
+    "name": "23-077586-01 Sсhauma Pack Test",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "230933200101": {
+    "type_tib_id": "ip",
+    "tib_id": 999,
+    "id": "230933200101",
+    "name": "23-093320-01-01 Kotex Young Team Idea test",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2309846501": {
+    "type_tib_id": "ip",
+    "tib_id": 1000,
+    "id": "2309846501",
+    "name": "23-098465-01 Camel SS Pack test 2024",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2308678601": {
+    "type_tib_id": "ip",
+    "tib_id": 1001,
+    "id": "2308678601",
+    "name": "23-086786-01 Agusha AM PT",
+    "status": "Закрыт",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2307994601hall": {
+    "type_tib_id": "ip",
+    "tib_id": 1002,
+    "id": "2307994601hall",
+    "name": "23-079946-01 PVS Modern dairy KZ hall",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2307994601hallstart": {
+    "type_tib_id": "ip",
+    "tib_id": 1003,
+    "id": "2307994601hallstart",
+    "name": "23-079946-01 PVS Modern dairy KZ hall start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2400523701": {
+    "type_tib_id": "ip",
+    "tib_id": 1004,
+    "id": "2400523701",
+    "name": "24-005237-01 AG CAT Test",
+    "status": "Закрыт",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2308938801": {
+    "type_tib_id": "ip",
+    "tib_id": 1005,
+    "id": "2308938801",
+    "name": "23-089388-01 Special Pet Food in Grocery",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru",
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2400634801": {
+    "type_tib_id": "ip",
+    "tib_id": 1006,
+    "id": "2400634801",
+    "name": "24-006348-01 KENT Nano Mix BPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2400623201": {
+    "type_tib_id": "ip",
+    "tib_id": 1007,
+    "id": "2400623201",
+    "name": "24-006232-01 Lay's Stix Restage",
+    "status": "Закрыт",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2400770801_2": {
+    "type_tib_id": "ip",
+    "tib_id": 1008,
+    "id": "2400770801_2",
+    "name": "24-007708-01 GEN4.0 Compatibility 2 Regular japan",
+    "status": "Закрыт",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2400770801_2_start": {
+    "type_tib_id": "ip",
+    "tib_id": 1009,
+    "id": "2400770801_2_start",
+    "name": "24-007708-01 GEN4.0 Compatibility 2 Regular japan start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2401221501": {
+    "type_tib_id": "ip",
+    "tib_id": 1010,
+    "id": "2401221501",
+    "name": "24-012215-01 Milka Soft CAT",
+    "status": "Закрыт",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2308938801start": {
+    "type_tib_id": "ip",
+    "tib_id": 1011,
+    "id": "2308938801start",
+    "name": "23-089388-01 Special Pet Food in Grocery start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2309806201": {
+    "type_tib_id": "ip",
+    "tib_id": 1012,
+    "id": "2309806201",
+    "name": "23-098062-01 Chudo Corners Relaunch",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru",
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2400634801redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1013,
+    "id": "2400634801redir",
+    "name": "24-006348-01 KENT Nano Mix BPT Redirect",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2401428701": {
+    "type_tib_id": "ip",
+    "tib_id": 1014,
+    "id": "2401428701",
+    "name": "24-014287-01 Lay's GO RP PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2401828101": {
+    "type_tib_id": "ip",
+    "tib_id": 1015,
+    "id": "2401828101",
+    "name": "24-018281-01 Lay's Crab Lobster RP PT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2401683301": {
+    "type_tib_id": "ip",
+    "tib_id": 1016,
+    "id": "2401683301",
+    "name": "24-016833-01 PMI Sweet tipping CPT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2401517501": {
+    "type_tib_id": "ip",
+    "tib_id": 1017,
+    "id": "2401517501",
+    "name": "24-015175-01 Jubilee cacao",
+    "status": "В поле",
+    "processing": []
+  },
+  "2401517501redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1018,
+    "id": "2401517501redir",
+    "name": "24-015175-01 Jubilee cacao REDIRECTS",
+    "status": "В поле",
+    "processing": [
+      "maxim.lyubimov@ipsos-russia.ru"
+    ]
+  },
+  "2401955301": {
+    "type_tib_id": "ip",
+    "tib_id": 1019,
+    "id": "2401955301",
+    "name": "24-019553-01 Lay's Bacon RP PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2402030301concpart2": {
+    "type_tib_id": "ip",
+    "tib_id": 1020,
+    "id": "2402030301concpart2",
+    "name": "24-020303-01 Milka Midsize concept-product part2",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2309672801": {
+    "type_tib_id": "ip",
+    "tib_id": 1021,
+    "id": "2309672801",
+    "name": "23-096728-01 Agusha RTE Porridge PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2402030301prod": {
+    "type_tib_id": "ip",
+    "tib_id": 1022,
+    "id": "2402030301prod",
+    "name": "24-020303-01 Milka Midsize concept-product",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2402030301prodstart": {
+    "type_tib_id": "ip",
+    "tib_id": 1023,
+    "id": "2402030301prodstart",
+    "name": "24-020303-01 Milka Midsize concept-product test start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "vit_workshop": {
+    "type_tib_id": "ip",
+    "tib_id": 1024,
+    "id": "vit_workshop",
+    "name": "vit workshop",
+    "status": "В поле",
+    "processing": [
+      "anastasia.kochetova@ipsos-russia.ru"
+    ]
+  },
+  "2401957101_2": {
+    "type_tib_id": "ip",
+    "tib_id": 1025,
+    "id": "2401957101_2",
+    "name": "24-019571-01 Gen4.0 Menthol Compatibility2 japan",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "ContactF2F": {
+    "type_tib_id": "ip",
+    "tib_id": 1026,
+    "id": "ContactF2F",
+    "name": "Contact F2F",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2401957101_2_start": {
+    "type_tib_id": "ip",
+    "tib_id": 1027,
+    "id": "2401957101_2_start",
+    "name": "24-019571-01 Gen4.0 Menthol Compatibility2 japan start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2302366101": {
+    "type_tib_id": "ip",
+    "tib_id": 1028,
+    "id": "2302366101",
+    "name": "23-023661-01 test task",
+    "status": "Приостановлен",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2400811401": {
+    "type_tib_id": "ip",
+    "tib_id": 1029,
+    "id": "2400811401",
+    "name": "24-008114-01 Agusha fruit pastilles PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2402030301stratpart2": {
+    "type_tib_id": "ip",
+    "tib_id": 1030,
+    "id": "2402030301stratpart2",
+    "name": "24-020303-01 Milka Midsize concept-product test start part2",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "testF2FContact": {
+    "type_tib_id": "ip",
+    "tib_id": 1031,
+    "id": "testF2FContact",
+    "name": "testF2FContact",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2308944303hall": {
+    "type_tib_id": "ip",
+    "tib_id": 1032,
+    "id": "2308944303hall",
+    "name": "23-089443-03 Coffee shopper VR",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2401909501": {
+    "type_tib_id": "ip",
+    "tib_id": 1033,
+    "id": "2401909501",
+    "name": "24-019095 Majitel PET PBA PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2402324301": {
+    "type_tib_id": "ip",
+    "tib_id": 1034,
+    "id": "2402324301",
+    "name": "24-023243-01 Winston KS Product Test",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2400811401redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1035,
+    "id": "2400811401redir",
+    "name": "24-008114-01 Agusha fruit pastilles PT Redirect",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2402865301": {
+    "type_tib_id": "ip",
+    "tib_id": 1036,
+    "id": "2402865301",
+    "name": "24-028653-01 Alpen Gold PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2402324301_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1037,
+    "id": "2402324301_redir",
+    "name": "24-023243-01 Winston KS Product Test start",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2402865301start": {
+    "type_tib_id": "ip",
+    "tib_id": 1038,
+    "id": "2402865301start",
+    "name": "24-028653-01 Alpen Gold PT start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "24002710": {
+    "type_tib_id": "ip",
+    "tib_id": 1039,
+    "id": "24002710",
+    "name": "24-002710 Palmolive big sizes HUT",
+    "status": "В поле",
+    "processing": [
+      "kirill.lapin@ipsos-russia.ru"
+    ]
+  },
+  "2402370001": {
+    "type_tib_id": "ip",
+    "tib_id": 1040,
+    "id": "2402370001",
+    "name": "24-023700-01 Aroma Product Segmentation",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2307992801part2ht": {
+    "type_tib_id": "ip",
+    "tib_id": 1041,
+    "id": "2307992801part2ht",
+    "name": "23-079928-01 U&A Modern Dairy KZ part 2 halltest",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2402751301": {
+    "type_tib_id": "ip",
+    "tib_id": 1042,
+    "id": "2402751301",
+    "name": "24-027513-01 Lay's Maxx PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2307992801part2htstart": {
+    "type_tib_id": "ip",
+    "tib_id": 1043,
+    "id": "2307992801part2htstart",
+    "name": "23-079928-01 U&A Modern Dairy KZ part 2 halltest start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2308944303_a_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1044,
+    "id": "2308944303_a_redir",
+    "name": "23-089443-03 Coffee shopper VR Redirect",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2307992801part2htkz": {
+    "type_tib_id": "ip",
+    "tib_id": 1045,
+    "id": "2307992801part2htkz",
+    "name": "23-079928-01 U&A Modern Dairy KZ part 2 halltest KZ",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2307992801part2htstartKZ": {
+    "type_tib_id": "ip",
+    "tib_id": 1046,
+    "id": "2307992801part2htstartKZ",
+    "name": "23-079928-01 U&A Modern Dairy KZ part 2 halltest start KZ",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "alfa_workshop": {
+    "type_tib_id": "ip",
+    "tib_id": 1047,
+    "id": "alfa_workshop",
+    "name": "alfa workshop",
+    "status": "В поле",
+    "processing": [
+      "anastasia.kochetova@ipsos-russia.ru"
+    ]
+  },
+  "2402370001redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1048,
+    "id": "2402370001redir",
+    "name": "24-023700-01 Aroma Product Segmentation Redirect",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2402647101": {
+    "type_tib_id": "ip",
+    "tib_id": 1049,
+    "id": "2402647101",
+    "name": "24-026471-01 Evervess NS Cola PT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2402750401": {
+    "type_tib_id": "ip",
+    "tib_id": 1050,
+    "id": "2402750401",
+    "name": "24-027504-01 Lay's SL PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2403518601": {
+    "type_tib_id": "ip",
+    "tib_id": 1051,
+    "id": "2403518601",
+    "name": "24-035186-01 TUC product test",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2403668701": {
+    "type_tib_id": "ip",
+    "tib_id": 1052,
+    "id": "2403668701",
+    "name": "24-036687-01 JDE Monarch PT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "test_name": {
+    "type_tib_id": "ip",
+    "tib_id": 1053,
+    "id": "test_name",
+    "name": "test name",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2403518601start": {
+    "type_tib_id": "ip",
+    "tib_id": 1054,
+    "id": "2403518601start",
+    "name": "24-035186-01 TUC product test start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2403668701_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1055,
+    "id": "2403668701_redir",
+    "name": "24-036687-01 JDE Monarch PT start",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2403694001": {
+    "type_tib_id": "ip",
+    "tib_id": 1056,
+    "id": "2403694001",
+    "name": "24-036940-01 ED Competitive PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2401829301": {
+    "type_tib_id": "ip",
+    "tib_id": 1057,
+    "id": "2401829301",
+    "name": "24-018293-01 Chudo GC PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2404274301": {
+    "type_tib_id": "ip",
+    "tib_id": 1058,
+    "id": "2404274301",
+    "name": "24-042743-01 CAT Milka XXMAX",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2404004801": {
+    "type_tib_id": "ip",
+    "tib_id": 1059,
+    "id": "2404004801",
+    "name": "24-040048-01 Evervess BL PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2309294701": {
+    "type_tib_id": "ip",
+    "tib_id": 1060,
+    "id": "2309294701",
+    "name": "23-092947-01 Gen4.0 Fruit compatibility CAT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490013301": {
+    "type_tib_id": "ip",
+    "tib_id": 1061,
+    "id": "2490013301",
+    "name": "24-900133-01 ViT Caps & tubes test",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490013301redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1062,
+    "id": "2490013301redir",
+    "name": "24-900133-01 ViT Caps & tubes test Redirect",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490013001": {
+    "type_tib_id": "ip",
+    "tib_id": 1063,
+    "id": "2490013001",
+    "name": "24-900130-01 AG Hazelnut CLT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2309294701jp": {
+    "type_tib_id": "ip",
+    "tib_id": 1064,
+    "id": "2309294701jp",
+    "name": "23-092947-01 Gen4.0 Fruit compatibility CAT Japan",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2309294701jp_start": {
+    "type_tib_id": "ip",
+    "tib_id": 1065,
+    "id": "2309294701jp_start",
+    "name": "23-092947-01 Gen4.0 Fruit compatibility CAT Japan start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490006601": {
+    "type_tib_id": "ip",
+    "tib_id": 1066,
+    "id": "2490006601",
+    "name": "24-900066-01 Whiskas wet pack with boosts",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490006801": {
+    "type_tib_id": "ip",
+    "tib_id": 1067,
+    "id": "2490006801",
+    "name": "24-900068-01 AdRush HUT",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2490006801_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1068,
+    "id": "2490006801_redir",
+    "name": "24-900068-01 AdRush HUT start",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2490014801i": {
+    "type_tib_id": "ip",
+    "tib_id": 1069,
+    "id": "2490014801i",
+    "name": "24-900148-01 Milka spread CAT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490013001start": {
+    "type_tib_id": "ip",
+    "tib_id": 1070,
+    "id": "2490013001start",
+    "name": "24-900130-01 AG Hazelnut CLT start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490006901": {
+    "type_tib_id": "ip",
+    "tib_id": 1071,
+    "id": "2490006901",
+    "name": "24-900069-01 Frustyle lemon-lime PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490006601hall": {
+    "type_tib_id": "ip",
+    "tib_id": 1072,
+    "id": "2490006601hall",
+    "name": "24-900066-01 Whiskas wet pack with boosts hall",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490006601start": {
+    "type_tib_id": "ip",
+    "tib_id": 1073,
+    "id": "2490006601start",
+    "name": "24-900066-01 Whiskas wet pack with boosts start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490006601hallstart": {
+    "type_tib_id": "ip",
+    "tib_id": 1074,
+    "id": "2490006601hallstart",
+    "name": "24-900066-01 Whiskas wet pack with boosts hall start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2403359501new": {
+    "type_tib_id": "ip",
+    "tib_id": 1075,
+    "id": "2403359501new",
+    "name": "24-033595-01 Sanitary Pad test new",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2403359501redirnew": {
+    "type_tib_id": "ip",
+    "tib_id": 1076,
+    "id": "2403359501redirnew",
+    "name": "24-033595-01 Sanitary Pad test Redirect new",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490027001": {
+    "type_tib_id": "ip",
+    "tib_id": 1077,
+    "id": "2490027001",
+    "name": "24-900270-01 JDE CAS Competitive PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490027001start": {
+    "type_tib_id": "ip",
+    "tib_id": 1078,
+    "id": "2490027001start",
+    "name": "24-900270-01 JDE CAS Competitive PT start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490027101": {
+    "type_tib_id": "ip",
+    "tib_id": 1079,
+    "id": "2490027101",
+    "name": "24-900271-01 Lamber claim test",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490032101": {
+    "type_tib_id": "ip",
+    "tib_id": 1080,
+    "id": "2490032101",
+    "name": "24-900321-01 Barni choco mass change PT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490032101start": {
+    "type_tib_id": "ip",
+    "tib_id": 1081,
+    "id": "2490032101start",
+    "name": "24-900321-01 Barni choco mass change PT start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2401091902hall": {
+    "type_tib_id": "ip",
+    "tib_id": 1082,
+    "id": "2401091902hall",
+    "name": "24-010919-02 Yappy U&A",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2401091902start": {
+    "type_tib_id": "ip",
+    "tib_id": 1083,
+    "id": "2401091902start",
+    "name": "24-010919-02 Yappy U&A start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490038201": {
+    "type_tib_id": "ip",
+    "tib_id": 1084,
+    "id": "2490038201",
+    "name": "24-900382-01 Axe Deo Spray HUT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2401261801": {
+    "type_tib_id": "ip",
+    "tib_id": 1085,
+    "id": "2401261801",
+    "name": "24-012618-01 Milka Pralines DTCV QST v4",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490038201si_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1086,
+    "id": "2490038201si_redir",
+    "name": "24-900382-01 Axe Deo Spray HUT redir",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "24MSU019701": {
+    "type_tib_id": "ip",
+    "tib_id": 1087,
+    "id": "24MSU019701",
+    "name": "24-MSU-0197-01 Convenience Cat food layout VR",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490030601": {
+    "type_tib_id": "ip",
+    "tib_id": 1088,
+    "id": "2490030601",
+    "name": "24-900306-01 Nika DY PT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490044101": {
+    "type_tib_id": "ip",
+    "tib_id": 1089,
+    "id": "2490044101",
+    "name": "24-900441-01 Baltika eye tracker",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490044101redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1090,
+    "id": "2490044101redir",
+    "name": "24-900441-01 Baltika eye tracker redir",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490056601u_test": {
+    "type_tib_id": "ip",
+    "tib_id": 1091,
+    "id": "2490056601u_test",
+    "name": "24-900566-01u test",
+    "status": "В поле",
+    "processing": [
+      "yury.anisimov@ipsos-russia.ru"
+    ]
+  },
+  "2401468001": {
+    "type_tib_id": "ip",
+    "tib_id": 1092,
+    "id": "2401468001",
+    "name": "24-014680-01 Camel SS Pack test Stage 2",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490055801": {
+    "type_tib_id": "ip",
+    "tib_id": 1093,
+    "id": "2490055801",
+    "name": "24-900558-01 Cola FS PDT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490044801": {
+    "type_tib_id": "ip",
+    "tib_id": 1094,
+    "id": "2490044801",
+    "name": "24-900448-01 Lay's Maxx 4 cheeses PT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490048901": {
+    "type_tib_id": "ip",
+    "tib_id": 1095,
+    "id": "2490048901",
+    "name": "24-900489-01 Agusha Lemonadik PDT",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490048901redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1096,
+    "id": "2490048901redir",
+    "name": "24-900489-01 Agusha Lemonadik PDT redir",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490062501": {
+    "type_tib_id": "ip",
+    "tib_id": 1097,
+    "id": "2490062501",
+    "name": "24-900625-01 Adrush Core CLT regions",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490063501_MaggiCutletsPT": {
+    "type_tib_id": "ip",
+    "tib_id": 1098,
+    "id": "2490063501_MaggiCutletsPT",
+    "name": "24-900635-01 Maggi Cutlets PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490062501redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1099,
+    "id": "2490062501redir",
+    "name": "24-900625-01 Adrush Core CLT regions redir",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490068601": {
+    "type_tib_id": "ip",
+    "tib_id": 1100,
+    "id": "2490068601",
+    "name": "24-900686-01 HT Meaty PT",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490067601_LaysPotatoVarietyPT": {
+    "type_tib_id": "ip",
+    "tib_id": 1101,
+    "id": "2490067601_LaysPotatoVarietyPT",
+    "name": "24-900676-01 Lays Potato Variety PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490067601": {
+    "type_tib_id": "ip",
+    "tib_id": 1101,
+    "id": "2490067601",
+    "name": "24-900676-01 Lays Potato Variety PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490067601Laysredir": {
+    "type_tib_id": "ip",
+    "tib_id": 1102,
+    "id": "2490067601Laysredir",
+    "name": "24-900676-01 Lays Potato Variety PT redir",
+    "status": "Закрыт",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490067601redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1103,
+    "id": "2490067601redir",
+    "name": "24-900676-01 Lays Potato Variety PT redir",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490068601redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1104,
+    "id": "2490068601redir",
+    "name": "24-900686-01 HT Meaty PT redir",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490065801": {
+    "type_tib_id": "ip",
+    "tib_id": 1105,
+    "id": "2490065801",
+    "name": "24-900658-01 Cola NS PT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490059501h": {
+    "type_tib_id": "ip",
+    "tib_id": 1106,
+    "id": "2490059501h",
+    "name": "24-900595-01 BAT 2024 hall",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490059501start": {
+    "type_tib_id": "ip",
+    "tib_id": 1107,
+    "id": "2490059501start",
+    "name": "24-900595-01 BAT 2024 start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490048501test": {
+    "type_tib_id": "ip",
+    "tib_id": 1108,
+    "id": "2490048501test",
+    "name": "cc 10864 | 2490048501 | 24-900485-01 Purina omni-channel Online navigation TEST",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490065801redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1109,
+    "id": "2490065801redir",
+    "name": "24-900658-01 Cola NS PT redirect",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490063201": {
+    "type_tib_id": "ip",
+    "tib_id": 1110,
+    "id": "2490063201",
+    "name": "24-900632-01 Lay's Stax PT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490063201start": {
+    "type_tib_id": "ip",
+    "tib_id": 1111,
+    "id": "2490063201start",
+    "name": "24-900632-01 Lay's Stax PT start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490038901f2f": {
+    "type_tib_id": "ip",
+    "tib_id": 1112,
+    "id": "2490038901f2f",
+    "name": "24-900389-01 Libresse Design test F2F",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490077201h": {
+    "type_tib_id": "ip",
+    "tib_id": 1113,
+    "id": "2490077201h",
+    "name": "24-900772-01 Clear Men Active Sport HUT hall",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490077201start": {
+    "type_tib_id": "ip",
+    "tib_id": 1114,
+    "id": "2490077201start",
+    "name": "24-900772-01 Clear Men Active Sport HUT start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490081801": {
+    "type_tib_id": "ip",
+    "tib_id": 1115,
+    "id": "2490081801",
+    "name": "24-900818-01 Lay's Salted RP PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490088901": {
+    "type_tib_id": "ip",
+    "tib_id": 1116,
+    "id": "2490088901",
+    "name": "24-900889-01 Fruit beer CPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490081801redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1117,
+    "id": "2490081801redir",
+    "name": "24-900818-01 Lay's Salted RP PT redir",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490043602HT": {
+    "type_tib_id": "ip",
+    "tib_id": 1118,
+    "id": "2490043602HT",
+    "name": "24-900436-02 THP New capsule Product test",
+    "status": "В поле",
+    "processing": [
+      "kirill.lapin@ipsos-russia.ru"
+    ]
+  },
+  "2490081801ab_redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1119,
+    "id": "2490081801ab_redir",
+    "name": "24-900436-02 THP New capsule Product test distr",
+    "status": "В поле",
+    "processing": [
+      "kirill.lapin@ipsos-russia.ru"
+    ]
+  },
+  "2490088901redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1120,
+    "id": "2490088901redir",
+    "name": "24-900889-01 Fruit beer CPT redir",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490088201": {
+    "type_tib_id": "ip",
+    "tib_id": 1121,
+    "id": "2490088201",
+    "name": "24-900882-01 President PC CPT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490087001": {
+    "type_tib_id": "ip",
+    "tib_id": 1122,
+    "id": "2490087001",
+    "name": "24-900870-01 Maggi Base for Shchi PT",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490093501": {
+    "type_tib_id": "ip",
+    "tib_id": 1123,
+    "id": "2490093501",
+    "name": "24-900935-01 Krone Blanche CPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490095401": {
+    "type_tib_id": "ip",
+    "tib_id": 1124,
+    "id": "2490095401",
+    "name": "24-900954-01 Moya Semya Pack Test",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490088201redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1125,
+    "id": "2490088201redir",
+    "name": "24-900882-01 President PC CPT Redir",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490093501redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1126,
+    "id": "2490093501redir",
+    "name": "24-900935-01 Krone Blanche CPT Redir",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490103501": {
+    "type_tib_id": "ip",
+    "tib_id": 1127,
+    "id": "2490103501",
+    "name": "24-901035-01 Fruit Pure PT",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490085101": {
+    "type_tib_id": "ip",
+    "tib_id": 1128,
+    "id": "2490085101",
+    "name": "24-900851-01 CQA Lay's Salted CQA PT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490100401": {
+    "type_tib_id": "ip",
+    "tib_id": 1129,
+    "id": "2490100401",
+    "name": "24-901004-01 Nescafe Pure soluble PT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490087001_start": {
+    "type_tib_id": "ip",
+    "tib_id": 1130,
+    "id": "2490087001_start",
+    "name": "24-900870-01 Maggi Base for Shchi PT Start",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490097601": {
+    "type_tib_id": "ip",
+    "tib_id": 1131,
+    "id": "2490097601",
+    "name": "24-900976-01 (Inno CPT 3 cities)",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490085101redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1132,
+    "id": "2490085101redir",
+    "name": "24-900851-01 CQA Lay's Salted CQA PT Redirect",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490086901": {
+    "type_tib_id": "ip",
+    "tib_id": 1133,
+    "id": "2490086901",
+    "name": "24-900869-01 Lay's SCH CQA",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490088501": {
+    "type_tib_id": "ip",
+    "tib_id": 1134,
+    "id": "2490088501",
+    "name": "24-900885-01 MARS 3d EQUIPMENT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490096401y": {
+    "type_tib_id": "ip",
+    "tib_id": 1135,
+    "id": "2490096401y",
+    "name": "24-900964-01 Cheetos Crab PDT",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2490107201": {
+    "type_tib_id": "ip",
+    "tib_id": 1136,
+    "id": "2490107201",
+    "name": "24-901072-01 Lipton Green RP PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490102601": {
+    "type_tib_id": "ip",
+    "tib_id": 1137,
+    "id": "2490102601",
+    "name": "24-901026-01 Lay's Bacon RP PT",
+    "status": "В поле",
+    "processing": [
+      "julia.artemenko@ipsos-russia.ru"
+    ]
+  },
+  "2490107301": {
+    "type_tib_id": "ip",
+    "tib_id": 1138,
+    "id": "2490107301",
+    "name": "24-901073-01 Drive Me Lulo-Opincia CPT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490108601": {
+    "type_tib_id": "ip",
+    "tib_id": 1139,
+    "id": "2490108601",
+    "name": "24-901086-01 Maggi Papyrus for meat",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "24025798_2": {
+    "type_tib_id": "ip",
+    "tib_id": 1140,
+    "id": "24025798_2",
+    "name": "24-025798 G4M MARS 23cells 042024 neuro",
+    "status": "В поле",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "24025798_3": {
+    "type_tib_id": "ip",
+    "tib_id": 1141,
+    "id": "24025798_3",
+    "name": "24-025798 G4M MARS 23cells 042024 neuro dog",
+    "status": "Приостановлен",
+    "processing": [
+      "denis.reshilov@ipsos-russia.ru"
+    ]
+  },
+  "2490107301start": {
+    "type_tib_id": "ip",
+    "tib_id": 1142,
+    "id": "2490107301start",
+    "name": "24-901073-01 Drive Me Lulo-Opincia CPT start",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490112601": {
+    "type_tib_id": "ip",
+    "tib_id": 1143,
+    "id": "2490112601",
+    "name": "24-901126-01 Dobry pack volumetric",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490113001": {
+    "type_tib_id": "ip",
+    "tib_id": 1144,
+    "id": "2490113001",
+    "name": "24-901130-01 Evervess BL HUT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490097301": {
+    "type_tib_id": "ip",
+    "tib_id": 1145,
+    "id": "2490097301",
+    "name": "24-900973-01 Aroma Blindfolded Sticks Test",
+    "status": "В поле",
+    "processing": [
+      "maxim.lyubimov@ipsos-russia.ru"
+    ]
+  },
+  "2490107801": {
+    "type_tib_id": "ip",
+    "tib_id": 1146,
+    "id": "2490107801",
+    "name": "24-901078-01 Sobranie Compact Potential",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490114401": {
+    "type_tib_id": "ip",
+    "tib_id": 1147,
+    "id": "2490114401",
+    "name": "24-901144-01 Lay's Crab RP PT",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "240215890311": {
+    "type_tib_id": "ip",
+    "tib_id": 1148,
+    "id": "240215890311",
+    "name": "24-021589-03 Natakhtari w6",
+    "status": "В поле",
+    "processing": [
+      "anton.lalakin@ipsos-russia.ru"
+    ]
+  },
+  "2490114401redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1149,
+    "id": "2490114401redir",
+    "name": "24-901144-01 Lay's Crab RP PT redir",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490114501": {
+    "type_tib_id": "ip",
+    "tib_id": 1150,
+    "id": "2490114501",
+    "name": "24-901145-01 Lay's Lobster RP PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490113001redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1151,
+    "id": "2490113001redir",
+    "name": "24-901130-01 Evervess BL HUT Redir",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490112901": {
+    "type_tib_id": "ip",
+    "tib_id": 1152,
+    "id": "2490112901",
+    "name": "24-901129-01 Bitter Lemon PT",
+    "status": "В поле",
+    "processing": [
+      "alexander.kulyutkin@ipsos-russia.ru"
+    ]
+  },
+  "2490097301redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1153,
+    "id": "2490097301redir",
+    "name": "24-900973-01 Aroma Blindfolded Sticks Test redir",
+    "status": "В поле",
+    "processing": [
+      "maxim.lyubimov@ipsos-russia.ru"
+    ]
+  },
+  "2490124201": {
+    "type_tib_id": "ip",
+    "tib_id": 1154,
+    "id": "2490124201",
+    "name": "24-901242-01 Baltika InnoCPT Stout",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490108601start": {
+    "type_tib_id": "ip",
+    "tib_id": 1155,
+    "id": "2490108601start",
+    "name": "24-901086-01 Maggi Papyrus for meat start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490114501redir": {
+    "type_tib_id": "ip",
+    "tib_id": 1156,
+    "id": "2490114501redir",
+    "name": "24-901145-01 Lay's Lobster RP PT redir",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490117201": {
+    "type_tib_id": "ip",
+    "tib_id": 1157,
+    "id": "2490117201",
+    "name": "24-901172-01 J7 Orange juice PDT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490097801": {
+    "type_tib_id": "ip",
+    "tib_id": 1158,
+    "id": "2490097801",
+    "name": "24-900978-01 PF volumetric",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490117201start": {
+    "type_tib_id": "ip",
+    "tib_id": 1159,
+    "id": "2490117201start",
+    "name": "24-901172-01 J7 Orange juice redirect",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490116001": {
+    "type_tib_id": "ip",
+    "tib_id": 1160,
+    "id": "2490116001",
+    "name": "24-901160-01 Mentos Tropics CPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490100701": {
+    "type_tib_id": "ip",
+    "tib_id": 1161,
+    "id": "2490100701",
+    "name": "24-901007-01 Pure soluble PT 10P",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490125601": {
+    "type_tib_id": "ip",
+    "tib_id": 1162,
+    "id": "2490125601",
+    "name": "24-901256 BALTIKA 0 IPA CPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490124301": {
+    "type_tib_id": "ip",
+    "tib_id": 1163,
+    "id": "2490124301",
+    "name": "24-901243-01 Baltika InnoCPT Helles",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490119101": {
+    "type_tib_id": "ip",
+    "tib_id": 1164,
+    "id": "2490119101",
+    "name": "24-901191-01 CAT Barni Fruit",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490119101start": {
+    "type_tib_id": "ip",
+    "tib_id": 1165,
+    "id": "2490119101start",
+    "name": "24-901191-01 CAT Barni Fruit start",
+    "status": "В поле",
+    "processing": [
+      "nadezhda.murdasheva@ipsos-russia.ru"
+    ]
+  },
+  "2490127301": {
+    "type_tib_id": "ip",
+    "tib_id": 1166,
+    "id": "2490127301",
+    "name": "24-901273-01 Mentos Wintergreen CPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2490100701start": {
+    "type_tib_id": "ip",
+    "tib_id": 1167,
+    "id": "2490100701start",
+    "name": "24-901007-01 Pure soluble PT 10P start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490073501h": {
+    "type_tib_id": "ip",
+    "tib_id": 1168,
+    "id": "2490073501h",
+    "name": "24-900735-01 JDE Fresh Brew CPT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2590002401": {
+    "type_tib_id": "ip",
+    "tib_id": 1169,
+    "id": "2590002401",
+    "name": "25-900024-01 Drive Me Max CPT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490073501eye": {
+    "type_tib_id": "ip",
+    "tib_id": 1170,
+    "id": "2490073501eye",
+    "name": "24-900735-01 JDE eye-tracing",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2590002401start": {
+    "type_tib_id": "ip",
+    "tib_id": 1171,
+    "id": "2590002401start",
+    "name": "25-900024-01 Drive Me Max CPT start",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490133601": {
+    "type_tib_id": "ip",
+    "tib_id": 1172,
+    "id": "2490133601",
+    "name": "24-901336-01 Magnat PT",
+    "status": "В поле",
+    "processing": [
+      "artem.baranov@ipsos-russia.ru"
+    ]
+  },
+  "2490137701": {
+    "type_tib_id": "ip",
+    "tib_id": 1173,
+    "id": "2490137701",
+    "name": "24-901377-01 Lays Maxx PDT",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490131101": {
+    "type_tib_id": "ip",
+    "tib_id": 1174,
+    "id": "2490131101",
+    "name": "24-901311-01 BAT Aroma Mapping BPT",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490137701start": {
+    "type_tib_id": "ip",
+    "tib_id": 1175,
+    "id": "2490137701start",
+    "name": "24-901377-01 Lays Maxx PDT start",
+    "status": "В поле",
+    "processing": [
+      "ilya.gudkov@ipsos-russia.ru"
+    ]
+  },
+  "2490134501": {
+    "type_tib_id": "ip",
+    "tib_id": 1176,
+    "id": "2490134501",
+    "name": "24-901345-01 Mentos ICE CPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2590009501": {
+    "type_tib_id": "ip",
+    "tib_id": 1177,
+    "id": "2590009501",
+    "name": "25-900095-01 Baltika IPA InnoCPT",
+    "status": "В поле",
+    "processing": [
+      "artemii.smekalin@ipsos-russia.ru"
+    ]
+  },
+  "2590010101": {
+    "type_tib_id": "ip",
+    "tib_id": 1178,
+    "id": "2590010101",
+    "name": "25-900101-01 Winston and Camel Product test",
+    "status": "В поле",
+    "processing": [
+      "maxim.lyubimov@ipsos-russia.ru"
+    ]
+  },
+  "2490131101start": {
+    "type_tib_id": "ip",
+    "tib_id": 1179,
+    "id": "2490131101start",
+    "name": "24-901311-01 BAT Aroma Mapping BPT start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  },
+  "2490097801start": {
+    "type_tib_id": "ip",
+    "tib_id": 1180,
+    "id": "2490097801start",
+    "name": "24-900978-01 PF volumetric start",
+    "status": "В поле",
+    "processing": [
+      "ivan.shelagin@ipsos-russia.ru"
+    ]
+  }
+}

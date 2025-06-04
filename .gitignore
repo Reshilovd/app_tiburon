@@ -1,0 +1,69 @@
+# Виртуальные окружения
+venv/
+env/
+virtualenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / build artifacts
+/dist/
+/build/
+/sdist/
+/wheelhouse/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Environment variable file
+.env
+.env.local
+.env.development
+.env.production
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Type checking
+.pytype/
+mypy_cache/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest cache
+.cache/
+.pytest_cache/
+
+# sphinx docs
+_docs/
+doc/_build/
+
+# mypy
+.mypy_cache/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
